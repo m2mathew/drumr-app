@@ -31,9 +31,7 @@ _Made using Balsamiq Mockup_
 
 ### APIs, Libraries, Plug-ins, and Frameworks
 
-Wikipedia API
-
-Info from drummerworld.com
+Info from drummerworld.com using node.js
 
 React.js
 
