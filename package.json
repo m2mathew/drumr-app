@@ -1,5 +1,5 @@
 {
-  "name": "new-project",
+  "name": "drumr-app",
   "description": "",
   "version": "1.0.0",
   "main": "index.html",
@@ -25,7 +25,7 @@
   "dependencies": {
     "backbone": "^1.2.3",
     "gulp-ignore": "^2.0.1",
-    "jquery": "^2.1.4",
+    "jquery": "^3.0.0",
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
     "react-masonry-component": "^2.0.0"
